@@ -1,0 +1,14 @@
+C:\Users\Jeffrey\source\repos\CheckMeOut\CheckMeOut\bin\Debug\CheckMeOut.exe.config
+C:\Users\Jeffrey\source\repos\CheckMeOut\CheckMeOut\bin\Debug\CheckMeOut.exe
+C:\Users\Jeffrey\source\repos\CheckMeOut\CheckMeOut\bin\Debug\CheckMeOut.pdb
+C:\Users\Jeffrey\source\repos\CheckMeOut\CheckMeOut\obj\Debug\CheckMeOut.Form1.resources
+C:\Users\Jeffrey\source\repos\CheckMeOut\CheckMeOut\obj\Debug\CheckMeOut.Properties.Resources.resources
+C:\Users\Jeffrey\source\repos\CheckMeOut\CheckMeOut\obj\Debug\CheckMeOut.csproj.GenerateResource.cache
+C:\Users\Jeffrey\source\repos\CheckMeOut\CheckMeOut\obj\Debug\CheckMeOut.csproj.CoreCompileInputs.cache
+C:\Users\Jeffrey\source\repos\CheckMeOut\CheckMeOut\obj\Debug\CheckMeOut.exe
+C:\Users\Jeffrey\source\repos\CheckMeOut\CheckMeOut\obj\Debug\CheckMeOut.pdb
+C:\Users\Jeffrey\source\repos\CheckMeOut\CheckMeOut\bin\Debug\CheckMeOut.exe.manifest
+C:\Users\Jeffrey\source\repos\CheckMeOut\CheckMeOut\bin\Debug\CheckMeOut.application
+C:\Users\Jeffrey\source\repos\CheckMeOut\CheckMeOut\obj\Debug\CheckMeOut.exe.manifest
+C:\Users\Jeffrey\source\repos\CheckMeOut\CheckMeOut\obj\Debug\CheckMeOut.application
+C:\Users\Jeffrey\source\repos\CheckMeOut\CheckMeOut\obj\Debug\CheckMeOut.csprojAssemblyReference.cache
